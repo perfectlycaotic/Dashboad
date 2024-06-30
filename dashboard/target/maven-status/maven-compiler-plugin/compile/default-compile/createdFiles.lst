@@ -1,0 +1,11 @@
+com/example/dashboard/TransactionGenerator.class
+com/example/dashboard/WebSocketConfig.class
+com/example/dashboard/TransactionRepository.class
+com/example/dashboard/TransactionService.class
+com/example/dashboard/Product.class
+com/example/dashboard/MyWebSocketHandler.class
+com/example/dashboard/RedisConfig.class
+com/example/dashboard/TransactionGenerator$Product.class
+com/example/dashboard/Transaction.class
+com/example/dashboard/TransactionController.class
+com/example/dashboard/DashboardApplication.class

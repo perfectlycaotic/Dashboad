@@ -1,0 +1,10 @@
+/home/user/Downloads/dashboard/src/main/java/com/example/dashboard/DashboardApplication.java
+/home/user/Downloads/dashboard/src/main/java/com/example/dashboard/MyWebSocketHandler.java
+/home/user/Downloads/dashboard/src/main/java/com/example/dashboard/Product.java
+/home/user/Downloads/dashboard/src/main/java/com/example/dashboard/RedisConfig.java
+/home/user/Downloads/dashboard/src/main/java/com/example/dashboard/Transaction.java
+/home/user/Downloads/dashboard/src/main/java/com/example/dashboard/TransactionController.java
+/home/user/Downloads/dashboard/src/main/java/com/example/dashboard/TransactionGenerator.java
+/home/user/Downloads/dashboard/src/main/java/com/example/dashboard/TransactionRepository.java
+/home/user/Downloads/dashboard/src/main/java/com/example/dashboard/TransactionService.java
+/home/user/Downloads/dashboard/src/main/java/com/example/dashboard/WebSocketConfig.java
